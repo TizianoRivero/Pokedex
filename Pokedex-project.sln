@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex-project", "Pokedex-project\Pokedex-project.csproj", "{50E95934-34A5-4355-9CD3-84EB503D3A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{07E114C8-9613-41DA-B47B-E15E34FE280A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{CE8C5049-0868-45C7-B295-1056617F51CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E95934-34A5-4355-9CD3-84EB503D3A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E95934-34A5-4355-9CD3-84EB503D3A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E95934-34A5-4355-9CD3-84EB503D3A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E95934-34A5-4355-9CD3-84EB503D3A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E114C8-9613-41DA-B47B-E15E34FE280A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E114C8-9613-41DA-B47B-E15E34FE280A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E114C8-9613-41DA-B47B-E15E34FE280A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E114C8-9613-41DA-B47B-E15E34FE280A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8C5049-0868-45C7-B295-1056617F51CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8C5049-0868-45C7-B295-1056617F51CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8C5049-0868-45C7-B295-1056617F51CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8C5049-0868-45C7-B295-1056617F51CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9376DA9C-2688-4390-9EE8-6DA9A4CA6EE3}
+	EndGlobalSection
+EndGlobal
